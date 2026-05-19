@@ -1,16 +1,18 @@
-## Hi there 👋
+# hi there, i'm ameya!
 
-<!--
-**AmeyaKI/AmeyaKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a freshman at **uc berkeley (co '29, expected '28)** studying data science & computer science. 
+i love exploring how machine learning, ai, and software engineering can be used to build effective, data-driven solutions that make a real-world impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⟢ what i'm up to:
+* 🎓 diving into computer science and data science coursework at cal
+* 🤖 building projects and exploring the intersection of ml and software engineering
+* 📈 always looking for exciting opportunities to learn and collaborate
+
+### ⟢ connect with me:
+* 🌐 check out my [personal portfolio website](https://ameyaki.github.io) to see what i've built!
+* 💼 reach out on [linkedin](https://www.linkedin.com/in/ameya-kiwalkar/)
+* ✉️ send me an email at `akiwalkar@berkeley.edu`
+
+---
