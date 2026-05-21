@@ -7,11 +7,11 @@ i love exploring how machine learning, ai, and software engineering can be used 
 
 ### ⟢ what i'm up to:
 * 🎓 diving into computer science and data science coursework at cal
-* 🤖 building projects and exploring the intersection of ml and software engineering
-* 📈 always looking for exciting opportunities to learn and collaborate
+* 🤖 building projects
+* 📈 always looking for opportunities to learn and collaborate
 
 ### ⟢ connect with me:
-* 🌐 check out my [personal portfolio website](https://ameyaki.github.io) to see what i've built!
+* 🌐 check out my [personal portfolio website](https://ameyaki.github.io)!
 * 💼 reach out on [linkedin](https://www.linkedin.com/in/ameya-kiwalkar/)
 * ✉️ send me an email at `akiwalkar@berkeley.edu`
 
