@@ -1,4 +1,8 @@
-# hi there, i'm ameya!
+# hi, i'm ameya!
 
-i'm a freshman at **uc berkeley (co '29, expected '28)** studying data science & computer science. 
-i love exploring how machine learning, ai, and software engineering can be used to build effective, data-driven solutions that make a real-world impact.
+studying data science & computer science @ uc berkeley (expected may 2028)
+
+ml engineering intern @ attrove — production rag pipelines for enterprise communications
+previously applied ai research intern @ merck — multi-agent workflows for molecular analysis
+
+building retrieval, verification, and inference infrastructure for llms and agents
