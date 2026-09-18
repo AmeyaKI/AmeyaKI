@@ -2,7 +2,7 @@
 
 studying data science & computer science @ uc berkeley (expected may 2028)
 
-- current ml engineer @ attrove – rag pipelines for enterprise communications intelligence
-- previous applied ai research @ merck – multi-agentic workflows for molecular analysis
+- current ml engineer @ attrove – building rag pipelines for enterprise communications intelligence
+- previously applied ai research @ merck – designing multi-agentic workflows for molecular analysis
 
-interested in retrieval, verification, and inference infrastructure for llms and agents
+interested in ml/llm infra - retrieval, eval, and inference.
