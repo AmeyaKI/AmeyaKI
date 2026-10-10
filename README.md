@@ -1,9 +1,12 @@
-# hi, i'm ameya!
+# hi, i'm ameya
 
-studying data science & computer science @ uc berkeley (expected '28)
-currently ml research @ ucsf 
+data science + computer science @ uc berkeley · class of '28
 
-- prev. ml engineering @ attrove – rag pipelines for enterprise communications intelligence
-- prev. applied ai research @ merck – multi-agentic workflows for molecular analysis
+**now**
+- ml research @ ucsf
 
-interested in building ml infra - evaluation, serving, and tooling - with a focus on retrieval systems
+**before**
+- ml engineering @ attrove · rag pipelines for enterprise communications intelligence
+- applied ai research @ merck · multi-agent workflows for molecular analysis
+
+**interested in** ml infra (evaluation, serving, tooling), especially retrieval systems
