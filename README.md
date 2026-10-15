@@ -1,6 +1,6 @@
 ### hi, i'm ameya
 
-studying data science @ uc berkeley (class of '28). interested in full-stack ml infra (evals, benchmarking, serving, tooling), with a focus on retrieval systems.
+studying data science @ uc berkeley (expected co '28). interested in full-stack ml infra (evals, benchmarking, serving, tooling), with a focus on retrieval systems.
 
 **currently:** ml researcher @ ucsf - fine-tuning foundation models for biomedical imaging
 
