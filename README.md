@@ -1,9 +1,11 @@
-### hi, i'm ameya
+## hi, i'm ameya
 
-studying data science @ uc berkeley (expected co '28). interested in full-stack ml infra (evals, benchmarking, serving, tooling), with a focus on retrieval systems.
+studying data science @ **uc berkeley** · expected '28
 
-**currently:** ml researcher @ ucsf
+interested in full-stack ml infra—evals, benchmarking, serving, and tooling—with a focus on **retrieval systems**.
 
-**previously**<br>
-· ml engineering @ attrove<br>
-· applied ai research @ merck
+### experience
+
+- **currently** · ml researcher @ **ucsf**
+- **previously** · ml engineering @ **attrove**
+- **previously** · applied ai research @ **merck**
