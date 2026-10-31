@@ -2,7 +2,7 @@
 
 studying data science @ **uc berkeley** · expected '28
 
-interested in **full-stack ml infra** (evals, fine-tuning, serving, and tooling) with a focus on retrieval systems.
+interested in **llm post-training, evals, agents, and retrieval/rag**.
 
 ### experience
 
