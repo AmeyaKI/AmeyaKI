@@ -6,6 +6,6 @@ interested in **llm post-training, evals, agents, and retrieval/rag**.
 
 ### experience
 
-- **currently** · ml researcher @ **ucsf** · working on llm posttraining and rl algorithms for adaptive retrieval 
+- **currently** · ml researcher @ **ucsf**
 - **previously** · ml engineering @ **attrove**
 - **previously** · applied ai research @ **merck**
