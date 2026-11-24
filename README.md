@@ -2,7 +2,7 @@
 
 studying data science @ **uc berkeley** · expected '28
 
-interested in **llm posttraining, evals, agents, and rag**.
+interested in **llm training, evals, agents, and rag**.
 
 ### experience
 
